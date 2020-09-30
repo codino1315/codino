@@ -1,0 +1,23 @@
+/*
+body{
+    background: url('../images/back.jpg') center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+
+.change_bg{
+    animation: changeback 10s ease-in-out infinite ;
+}
+
+
+ @keyframes changeback{
+     0%{background: url('../images/back.jpg') center center fixed;background-repeat: no-repeat;
+        background-size: cover;}
+     33%{background: url('../images/back2.jpg') center center fixed;background-repeat: no-repeat;
+        background-size: cover;}
+     66%{background: url('../images/back7.jpg') center center fixed;background-repeat: no-repeat;
+        background-size: cover;}
+     100%{background: url('../images/back.jpg') center center fixed;background-repeat: no-repeat;
+        background-size: cover;}
+ }
+
