@@ -1,4 +1,3 @@
 # codino
 
-A a learning platform dsak
-dskjmdas
+A learning platform
