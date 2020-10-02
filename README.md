@@ -1,5 +1,4 @@
 # codino
 
-Hello
-A  learning platform dsak
+A learning platform for competitive programming.
 
