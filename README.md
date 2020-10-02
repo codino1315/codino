@@ -1,4 +1,4 @@
 # codino
 
-A learning platform for competitive programming.
+A learning platform for imporving coding skills.
 
