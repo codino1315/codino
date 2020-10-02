@@ -1,4 +1,3 @@
 # codino
 
-A a learning platform dsak
-dskjmdas
+A a learning platform to learn coding.
