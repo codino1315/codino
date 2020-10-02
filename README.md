@@ -1,4 +1,5 @@
 # codino
 
-A learning platform for competitive programming.
+A learning platform for chintu.
+#whitehatjr
 
