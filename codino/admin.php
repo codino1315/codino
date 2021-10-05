@@ -21,7 +21,7 @@ if(isset($_POST['submit'])){
     $insert_data = mysqli_query($connection, $query);
     
     if(!$insert_data){
-        die("EROOOROR" . mysqli_error($connection));
+        die("Connection failed. Try again." . mysqli_error($connection));
     }
 }
 
